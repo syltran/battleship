@@ -21,4 +21,4 @@ Il pourra choisir le niveau de difficulté du bot au début de la partie via un 
 2. HARD : le bot est plus malin. Dès qu'il touche un navire, il va viser les cases adjacentes susceptibles de contenir un autre bout du navire.
 
 **Documentation Technique et Utilisateur :**  
-Voir le fichier `aoudia_tran_bataille_navale.pdf`
+Voir le fichier [aoudia_tran_bataille_navale.pdf](https://github.com/syltran/battleship/blob/master/aoudia_tran_bataille_navale.pdf)
